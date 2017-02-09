@@ -1,0 +1,89 @@
+#mar{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: #eee;
+}
+#img1{
+	width:100px;
+	height:50px;
+}
+#img2{
+	width: 80px;
+	height: 80px;
+}
+#tab{
+	box-shadow: 1px 1px 1px #eee;
+
+	background-color: white;
+	width:100%;
+	height: 100px;
+	position: absolute;
+	top: 0;
+	left: 0;	
+}
+
+#tab1{
+	
+	height: 100px;
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	box-decoration-break: clone;
+	background-color: #5A8FD6;
+}
+#tab2{
+	height: 100px;
+	position: absolute;
+	top: 35%;
+	
+	box-decoration-break: clone;
+	background-color: #5A8FD6;
+
+}
+
+html{
+	background-image: url("r2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:device-width;
+}
+#heading{
+	text-align: center;
+	width: 1100px;
+	font-family: sans-serif;
+}
+#validate1{
+	margin-top:80%; 
+}
+#login{
+	margin-top: 150px;
+	margin-left: 500px;
+	margin-right: 500px;
+	padding-top: 60px;
+	padding-bottom: 100px;
+	background:rgba(1,0,0,.3);
+	text-align: center;
+}
+#sign{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: #eee;
+}
+#us{
+	padding: 10px;
+	margin-bottom: 20px;
+}
+#pass{
+	padding: 10px;
+}
+#sub{
+	margin-top: 20px;
+}
+#form1{
+	height: 10px;
+	position: absolute;
+	left: 30%;
+	box-decoration-break: clone;
+	background-color: #5A8FD6;
+
+}
